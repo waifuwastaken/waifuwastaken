@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: MangoAPI is teaching her how to use github at the moment
+
 <!--
 **waifuwastaken/waifuwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
